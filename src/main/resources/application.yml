@@ -1,0 +1,7 @@
+server:
+  port: 8090
+
+  girl:
+  cupSize:  A
+  age: 18
+  content: "cupSize:${server.cupSize} ,age: ${server.age}"
