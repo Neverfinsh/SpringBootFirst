@@ -1,0 +1,5 @@
+springboot的学习：
+
+1简答的配置一个springboot的项目；
+三种启动方式：IDE中启动; 进入项目中:mvv spring-boot:run,通过mvn的编译jar包启动：java -jar包启动
+
