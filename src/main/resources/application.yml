@@ -1,7 +1,4 @@
-server:
-  port: 8090
 
-girl:
-   age: 18
-   cupSize: C
-
+spring:
+  profiles:
+   active: dev
